@@ -1,4 +1,5 @@
 # numerical_analysis_programs1
+This repo consists of the programs which i have studied in the first sem of my course
 ├── README.md
 ├── 01_Linear_Algebra/
 │   ├── 01_system_of_equations/
